@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this ifdsafd s for desktop testppppppppppp
+=======
+friday test only
+this ifdsafd s for desktop test
+>>>>>>> f01ba75cbba1839c7c8aaad0e4f436b8378dc9fd
