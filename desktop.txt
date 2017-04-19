@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+tese
+addd
+oupp
+>>>>>>> test
 <<<<<<< HEAD
 this ifdsafd s for desktop testppppppppppp
 =======
